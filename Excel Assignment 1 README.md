@@ -1,4 +1,4 @@
-# Excel Assignment 1: Data Exploration
+# Excel : Data Exploration
 
 ## Project Overview
 This repository contains Excel assignment focused on data manipulation, extraction, and conditional logic. The goal was to analyse a product dataset and extract structured details using built-in Excel functions.
@@ -22,4 +22,4 @@ Extracted codes from the `Product ID` column using text formulas:
 * **RIGHT:** Extracted the last 2 characters to create a **Country Code** column.
 
 ## Files in this Repository
-* `Excel Assignment 1 - Data Exploration.xlsx` - The main spreadsheet containing all the completed formulas and data sheets.
+* `Excel Data Exploration - Data Exploration.xlsx` - The main spreadsheet containing all the completed formulas and data sheets.
