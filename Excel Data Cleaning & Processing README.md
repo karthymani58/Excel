@@ -1,12 +1,12 @@
-# Excel Data Cleaning & Processing Assignment
+# Excel Data Cleaning & Processing 
 
 ## Project Overview
 This repository contains a cleaned, structured, and standardized dataset derived from raw multi-task Excel files. The data transformations address missing values, text standardization, delimiter parsing, date formatting, and conditional formatting.
 
 ## Repository Files
 
-* `Assignment 2 - Data Cleaning and Transformation.xlsx` - Master Excel workbook containing all completed tasks and clean datasets.
-* `assignment-docs/` - Folder containing original task PDF instructions.
+* ` Data Cleaning and Transformation.xlsx` - Master Excel workbook containing all completed tasks and clean datasets.
+* `Data Cleaning-docs/` - Folder containing original task PDF instructions.
 
 ## Task Documentation Links
 
